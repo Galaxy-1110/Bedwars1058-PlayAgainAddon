@@ -1,0 +1,14 @@
+# BedWars1058-PlayAgain by CubeCrafter
+# Re-configured by Galaxy_ for CrimzCraft
+
+play-again-item:
+  slot: 7
+  material: PAPER
+  displayname: "&b&lPlay Again &7(Right Click)"
+  lore:
+    - "&7Right Click to Play Again!"
+sounds:
+  no-permission-arena-selector: ENTITY_VILLAGER_NO
+messages:
+  config-reloaded: "&7Config successfully reloaded!"
+config-version: 2
